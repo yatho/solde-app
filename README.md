@@ -1,6 +1,6 @@
 # solde
 
-Calcul de solde
+Calcul de remise
 
 ## Getting Started
 
